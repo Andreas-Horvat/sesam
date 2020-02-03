@@ -1,4 +1,9 @@
 # sesam
+Python tool to generate a unique password based on a
+given masterpassword and a given domain. Result in clipboard
+
+
+
 master password:
 -Think of a secure password, preferably according to the guidelines: https://pages.nist.gov/800-63-3/sp800-63b.html
 -ThreeWoerterGrandeStringIs theImportantCondition
