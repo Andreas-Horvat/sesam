@@ -22,4 +22,3 @@ used to generate the password
 The password is only the same every time with the same master password and the same 
 Domain and same salt
 
-@Ficenec38
